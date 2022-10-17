@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ansari-salman
-- 👀 I’m interested in Mobile development
+- 👀 I’m interested in Mobile App development
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on Flutter projects
 - 📫 How to reach me visit my portfolio website
